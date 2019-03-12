@@ -54,6 +54,8 @@ Durant has the highest percentage and he's made quite a lot of shots. However, T
 
 We can also take a look at two pointer shots. We're seeing a significant difference with the number of 2 pointers shot by these 5 players. Durant, Curry, and Thompson are shooting a lot more of these and getting high accuracies. Iguodala has shot the least, although he has the best accuracy. Green has also not shot that many relatively, and his accuracy is the lowest.
 
+![](workout01-alicia-kim_files/figure-markdown_github/unnamed-chunk-3-1.png)
+
 We can finally take a look at 3 point shots. The table below shows us that the best 3 point shooters of these 5 GSW players are Thompson and Curry. They shoot the most of them and have the highest accuracy. The three others have accuracies in the 30's, and do not shoot them as much. Because 3 pointers are harder shots to make, we're seeing overall lower percentages than the 2 pointers.
 
 ![](workout01-alicia-kim_files/figure-markdown_github/unnamed-chunk-4-1.png)

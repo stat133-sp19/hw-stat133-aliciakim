@@ -92,6 +92,9 @@ two_shooting[5,] <- list("Kevin Durant", nrow(filter(shots_data, name == "Kevin 
 
 two_shooting <- mutate(two_shooting, perc_made = made/total) %>% arrange(desc(perc_made))
 
+
+grid.table(two_shooting, rows=NULL)
+
 ```
 
 
