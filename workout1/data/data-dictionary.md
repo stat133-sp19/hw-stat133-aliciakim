@@ -1,7 +1,9 @@
 *Attribute information:*
 
 Datasets: andre-iguodala.csv, draymond-green.csv, kevin-durant.csv, 
-klay-thompson.csv, stephencurry.csv
+klay-thompson.csv, stephencurry.csv.
+
+Description:  Data draws from the GSW 2016 season. Player name datasets include records for their individual attempted shots.  shot-data datset created by drawing together each players data.
 
 Given is the name and short description for each attribute in the player 
 datasets.
