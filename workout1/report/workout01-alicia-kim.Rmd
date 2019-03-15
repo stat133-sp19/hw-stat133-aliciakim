@@ -162,7 +162,9 @@ dev.off()
 
 Our facetted shot charts shown below give us visual insight into the amount of each different shot made by our players.  We can easily see who is shooting more (with Curry at the top and Iguodala at the bottom) as well as who is making a lot of their shots in what location.  
 
-We can see interesting trends through this visualization, such as how the accuracy of shots made close to the basket are close to the same for all the players (an even distribution of red and blues).  We're also seeing how many shots Draymond Green has failed to make, and how he shoots especially rarely from the sides of the court.  Stephen Curry and Klay Thompson have a huge distribution in the shots their making (and missing). 
+We can see interesting trends through this visualization, such as how the accuracy of shots made close to the basket are close to the same for all the players (an even distribution of red and blues).  We're also seeing how many shots Draymond Green has failed to make, and how he shoots especially rarely from the sides of the court.  Stephen Curry and Klay Thompson, who clearly make a lot more shots on many parts of the court, also have some patterns in their charts, such as the higher distribution of shots from the middle of the court versus the sides.
+
+It's curious to see the rather random outliers from the larger distances of the court that some players (especially Curry) have.These might be our player's "throw-out" shots and we could consider dropping these shots from factoring into our accuracies in later analysis, because the player probably made them as the time ran out or in some other extenuating circumstance.
 
 
 
