@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556590473785.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EBFB789B",
+    "lastKnownWriteTime" : 1556591385,
+    "last_content_update" : 1556591385752,
+    "path" : "~/R/Stat 133/binomial/R/bin_variable.R",
+    "project_path" : "R/bin_variable.R",
+    "properties" : {
+        "cursorPosition" : "26,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
